@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+  h1
+  {
+  color: green}
+h2{
+  color: blue}
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+  tr:nth-child(3) {
+  background-color: #dddddd;
+}
+
+</style>
+</head>
+<body>
+  <h1>User Page</h1>
+  <table>
+  <tr>
+    <th>Ticket Status</th>
+    
+  </tr>
+  <tr>
+    <td>Received Query</td>
+    
+  </tr>
+  <tr>
+    <td>In Progress</td>
+    
+  </tr>
+  <tr>
+    <td>Issues Solved</td>
+  </tr>
+</table>
+    
+
+</body>
+</html>
+
